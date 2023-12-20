@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Derek!
+
+I'm a self taught software engineer with over 3 years of professional experience in full stack development.
+
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/derek-kwok/
 
 <!--
 **derekmkwok/derekmkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
