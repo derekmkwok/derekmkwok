@@ -1,6 +1,12 @@
 ## Hi, I'm Derek!
 
-I'm a self taught software engineer with over 3 years of professional experience in full stack development.
+I'm a self taught software engineer with 4 years of professional experience in full stack development. I previously had some projects publicly displayed on my GitHub, but they are no longer a good representation of my current coding ability and have been set to private.
+
+### Experience
+
+- Founding Software Engineer at Quip Medical
+- Full Stack Software Developer at Geotab
+- Full Stack Software Developer at Pathcore
 
 ### Contact
 
