@@ -4,6 +4,7 @@ I'm a software engineer with over 4 years of professional experience in full sta
 
 ### Experience
 
+- Software Engineer at eBay
 - Founding Software Engineer at Quip Medical
 - Full Stack Software Developer at Geotab
 - Full Stack Software Developer at Pathcore
