@@ -1,6 +1,6 @@
 ## Hi, I'm Derek!
 
-I'm a software engineer with over 4 years of professional experience in full stack development. I previously had some projects publicly displayed on my GitHub, but they are no longer a good representation of my current coding ability and have been set to private.
+I'm a software engineer with 5 years of professional experience in full stack development and 8 years of experience in engineering/technical roles. I previously had some projects publicly displayed on my GitHub, but they are no longer a good representation of my current coding ability and have been set to private.
 
 ### Experience
 
